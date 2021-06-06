@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31320.298
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadoMemoria", "DadoMemoria.csproj", "{F29D21BF-CC3E-4092-86AA-9472D5CB20DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29D21BF-CC3E-4092-86AA-9472D5CB20DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29D21BF-CC3E-4092-86AA-9472D5CB20DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29D21BF-CC3E-4092-86AA-9472D5CB20DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29D21BF-CC3E-4092-86AA-9472D5CB20DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C76041D-3090-48E5-836F-DBBC617E13EB}
+	EndGlobalSection
+EndGlobal
